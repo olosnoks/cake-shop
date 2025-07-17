@@ -1,6 +1,6 @@
 # 🍰 Custom Cakes Upload App
 
-A full-stack image cake ordering app that allows users to upload custom images for cake printing, write messages, select sizes, and schedule pickup. Admins can view orders and manage the system via a dedicated dashboard.
+A full-stack cake ordering app that allows users to upload custom images for cake printing, write messages, select sizes, and schedule pickup. Admins can view orders and manage the system via a dedicated dashboard.
 
 ---
 
