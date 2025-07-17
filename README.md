@@ -33,7 +33,7 @@ A full-stack image cake ordering app that allows users to upload custom images f
 ### 1. Clone & Setup
 
 ```bash
-git clone https://github.com/your-org/custom-cakes-upload.git
+git clone https://github.com/olosnoks/cake-shop.git
 cd custom-cakes-upload
 ```
 
